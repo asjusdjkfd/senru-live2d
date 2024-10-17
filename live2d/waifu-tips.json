@@ -1,0 +1,188 @@
+{
+	"mouseover": [{
+		"selector": "#waifu #live2d",
+		"text": ["好痒，快把手拿开～","鼠标可以吃吗？", "你看到我的小鱼干了吗？","你要干嘛呀？", "喵喵喵？", "等博主攒够了钱，就可以养一只真猫了。"]
+	}, {
+		"selector": "#waifu-tool .fa-music",
+		"text": ["想听音乐吗？","从今天起，做个有音乐细胞的喵星人。","悄咪咪地告诉你，这里有senru喜欢的音乐~","你确定要点吗？我听得耳朵都生茧了。","你会唱《学猫叫》吗？","我们一起学猫叫~<br>一起喵喵喵喵喵~","不得不说，senru的音乐品味真是一言难尽……"]
+	}, {
+		"selector": "#waifu-tool .fa-comment",
+		"text": ["猜猜我要说些什么？", "我从青蛙王子那里听到了不少人生经验。"]
+	}, {
+		"selector": "#waifu-tool .fa-user-circle",
+		"text": ["要见见我的姐妹嘛？", "见见我的朋友们吧。","哼，见异思迁的人类！"]
+	}, {
+		"selector": "#waifu-tool .fa-camera-retro",
+		"text": ["你要给我拍照呀？一二三～茄子～", "要不，我们来合影吧！", "保持微笑就好了～"]
+	}, {
+		"selector": "#waifu-tool .fa-times",
+		"text": ["你是不是嫌我烦了？", "See you later.", "后会有期……", "不要抛弃我呀……", "我们，还能再见面吗……", "哼，你会后悔的！"]
+	}, {
+		"selector": "a[href$='crowya.com']",
+		"text": ["点它就可以回到首页啦！", "回首页看看吧。"]
+	}, {
+		"selector": "a[href$='/about']",
+		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
+	}, {
+		"selector": "a[href$='/friendlinks']",
+		"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
+	}, {
+		"selector": "#navbar_search_input, #leftbar_search_input",
+		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
+	}, {
+		"selector": "#leftbar_tab_tools_btn",
+		"text": ["快看看这里都有什么呢？"]
+	}, {
+		"selector": "#leftbar_overview_author_image",
+		"text": ["我家主人是个社恐，不要吓到她哦。", "我家主人很凶的！", "这是我家主人(*´∇｀*)"]
+	}, {
+		"selector": "a[href$='/yaquews']",
+		"text": ["主人通常会在这里分享一些生活日常。", "关注频道可以接收主人最新动态哦！", "你是不是暗恋我呀？"]
+	}, {
+		"selector": "#post_content img",
+		"text": ["点击图片可以放大呢！"]
+	}, {
+		"selector": ".fa-clipboard",
+		"text": ["代码可以直接点击复制哟。"]
+	}, {
+		"selector": ".post-preview .post-content",
+		"text": ["点击标题来阅读全文哦。"]
+	}, {
+		"selector": "a[href$='beian.miit.gov.cn']",
+		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
+	}, {
+		"selector": ".donate-btn",
+		"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给她一些钱钱吧～"]
+	}, {
+		"selector": ".donate-qrcode",
+		"text": ["这是我的乞讨码！"]
+	}, {
+		"selector": "#share_show",
+		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
+	}, {
+		"selector": ".fa-weibo",
+		"text": ["微博？来分享一波喵！"]
+	}, {
+		"selector": ".fa-weixin",
+		"text": ["分享到微信吧！"]
+	}, {
+		"selector": ".fa-qq",
+		"text": ["QQ 空间，一键转发，耶～"]
+	}, {
+		"selector": ".fa-twitter",
+		"text": ["Twitter？好像是不存在的东西？"]
+	}, {
+		"selector": ".fa-facebook",
+		"text": ["emmm…FB 好像也是不存在的东西？"]
+	}, {
+		"selector": ".post-navigation-next",
+		"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
+	}, {
+		"selector": ".post-navigation-pre",
+		"text": ["来看看上一篇文章吧。", "点它可以看上一篇文章哦！", "要翻到上一篇文章吗？"]
+	}, {
+		"selector": "a.page-link[aria-label='Next Page']",
+		"text": ["去下一页看看吧。", "点它可以前进哦！", "要翻到下一页吗？"]
+	}, {
+		"selector": "a.page-link[aria-label='Previous Page']",
+		"text": ["去上一页看看吧。", "点它可以后退哦！", "要翻到上一页吗？"]
+	}, {
+		"selector": "#post_comment_name",
+		"text": ["该怎么称呼你呢？", "留下你的尊姓大名！"]
+	}, {
+		"selector": "#post_comment_email",
+		"text": ["留下你的邮箱，不然就是无头像人士了！", "有回复时会邮件通知你哒！", "为了方便通知你最新消息，一定要留下邮箱！"]
+	}, {
+		"selector": "#post_comment_link",
+		"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
+	}, {
+		"selector": "#fabtn_go_to_comment",
+		"text": ["要去看看评论吗？", "想要吐槽什么吗？", "要说点什么吗？", "觉得博客不错？快来留言和主人交流吧！"]
+	}, {
+		"selector": "#comment_emotion_btn",
+		"text": ["要插入一个萌萌哒的表情吗？", "要来一发表情吗？"]
+	}, {
+		"selector": "#post_comment_send",
+		"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+	}, {
+		"selector": ".comment-item-inner",
+		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+	}],
+	
+	"click": [{
+		"selector": "#waifu #live2d",
+		"text": ["生气了哦，不要动手动脚的！", "愚蠢的人类，看见猫就想撸", "看见广告了吗？能不能帮我点一下ಥ_ಥ", "听我说谢谢你，因为有你，温暖了四季，谢谢你，感谢有你，世界更美丽～", "不要摸我了，信不信我敲碎你的屏幕？", "干嘛动我呀！小心我咬你！", "主人快来救我，这里有个变态！"]
+	}, {
+		"selector": "#post_comment_captcha",
+		"text": ["输入验证码就可以提交评论啦～"]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>元旦</span>了呢，新的一年又开始了，今年是{year}年～"
+	}, {
+		"date": "02/14",
+		"text": "又是一年<span>情人节</span>，{year}年找到对象了嘛～"
+	}, {
+		"date": "03/08",
+		"text": "今天是<span>国际妇女节</span>！"
+	}, {
+		"date": "03/12",
+		"text": "今天是<span>植树节</span>，要保护环境呀！"
+	}, {
+		"date": "04/01",
+		"text": "悄悄告诉你一个秘密～<span>今天是愚人节，不要被骗了哦～</span>"
+	}, {
+		"date": "05/01",
+		"text": "今天是<span>五一劳动节</span>，计划好假期去哪里了吗～"
+	}, {
+		"date": "06/01",
+		"text": "<span>儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好啊…"
+	}, {
+		"date": "09/03",
+		"text": "<span>中国人民抗日战争胜利纪念日</span>，铭记历史、缅怀先烈、珍爱和平、开创未来。"
+	}, {
+		"date": "09/10",
+		"text": "<span>教师节</span>，在学校要给老师问声好呀～"
+	}, {
+		"date": "10/01",
+		"text": "<span>国庆节</span>到了，为祖国母亲庆生！"
+	}, {
+		"date": "11/05-11/12",
+		"text": "今年的<span>双十一</span>是和谁一起过的呢～"
+	}, {
+		"date": "12/20-12/31",
+		"text": "这几天是<span>圣诞节</span>，主人肯定又去剁手买买买了～"
+	}],
+	"time": [{
+		"hour": "6-7",
+		"text": "早上好！一日之计在于晨，美好的一天就要开始了～"
+	}, {
+		"hour": "8-11",
+		"text": "上午好！工作顺利嘛，不要久坐，多起来走动走动哦！"
+	}, {
+		"hour": "12-13",
+		"text": "中午了，工作了一个上午，现在是午餐时间！"
+	}, {
+		"hour": "14-17",
+		"text": "午后很容易犯困呢，今天的运动目标完成了吗？"
+	}, {
+		"hour": "18-19",
+		"text": "傍晚了！窗外夕阳的景色很美丽呢，最美不过夕阳红～"
+	}, {
+		"hour": "20-21",
+		"text": "晚上好，今天过得怎么样？"
+	}, {
+		"hour": "22-23",
+		"text": ["已经这么晚了呀，早点休息吧，晚安～", "深夜时要爱护眼睛呀！"]
+	}, {
+		"hour": "0-5",
+		"text": "你是夜猫子呀？这么晚还不睡觉，明天起的来嘛？"
+	}],
+	"message": {
+		"default": ["好久不见，日子过得好快呢……", "大坏蛋！你都多久没理人家了呀，嘤嘤嘤～", "嗨～快来逗我玩吧！", "拿小拳拳锤你胸口！", "记得把人家加入收藏夹哦！"],
+		"console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
+		"copy": "你都复制了些什么呀，转载要记得加上出处哦！",
+		"visibilitychange": "哇，你终于回来了～",
+		"secret_path":"<div style=\"text-align:center\">秘密通道<br/><a href=\"javascript:aplayer_panel_toggle();\">音乐播放器</a><br/></div>"
+	}
+}

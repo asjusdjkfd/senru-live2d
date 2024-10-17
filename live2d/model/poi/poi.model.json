@@ -1,0 +1,22 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "model",
+	"model": "model.moc",
+	"textures": [
+		"model.poi/default-costume.png"
+	],
+	"motions":{
+		"breath":[
+			{"file":"motions/Breath1.mtn"}
+		],
+        "sleepy":[
+            {"file":"motions/Sleeping.mtn"}
+        ],
+		"WakeUp":[
+			{"file":"motions/WakeUp.mtn"}
+		],
+		"Touch_Derel":[
+			{"file":"motions/Touch Dere1.mtn"}
+		]
+	}
+}
